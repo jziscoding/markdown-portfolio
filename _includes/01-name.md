@@ -1,1 +1,7 @@
 Replace this with your name, and include a header.
+# h1 text
+## h2 text
+### h3 text
+#### h4 text
+##### h5 text
+###### h6 text
